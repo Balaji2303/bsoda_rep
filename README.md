@@ -1,1 +1,1 @@
-bsoda_rep as Soda test1
+bsoda_rep as test1
