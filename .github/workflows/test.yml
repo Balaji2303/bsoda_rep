@@ -18,7 +18,7 @@ jobs:
           configuration: ./configuration.yml
           checks: ./checks.yml
         env:
-          SODA_CLOUD_API_KEY: 8f7bec2f-7ddc-4486-8e47-cbf8f20f39d8
-          SODA_CLOUD_API_SECRET: 4CQj2DFM3msLE9_E85jD5CuWHSSQZ23lpqibN5qgLiAXRP6QXdiWyQ
+          SODA_CLOUD_API_KEY: 782cfa87-e03b-442c-bff7-bfd85be0d7cf
+          SODA_CLOUD_API_SECRET: 2L7gPUXOw8MmW66D8Yi0T5bZXNP-IjRpRyMG9nNP_lE3-IgO3gKvww
           SNOWFLAKE_USERNAME: prabhus
           SNOWFLAKE_PASSWORD: Sastika@2023
